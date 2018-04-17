@@ -10,3 +10,11 @@ And for the poeple concerned with their carbon footprints the display shows how 
 
 These are some of the pictures I of my finished project
 
+![image1](https://user-images.githubusercontent.com/35973305/38848730-9899498c-41d6-11e8-82cd-a5afce4bbe9f.jpeg)
+
+![image2](https://user-images.githubusercontent.com/35973305/38848736-a286daa4-41d6-11e8-80fa-4ef07cb50b8a.jpeg)
+
+![image3](https://user-images.githubusercontent.com/35973305/38848740-a8daeb34-41d6-11e8-8283-fcb21a8e6e93.jpeg)
+
+![image4](https://user-images.githubusercontent.com/35973305/38848747-afad2ff8-41d6-11e8-9295-09c60180bcef.jpeg)
+
